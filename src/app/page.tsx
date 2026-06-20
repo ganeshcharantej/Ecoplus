@@ -98,7 +98,6 @@ export default function Home() {
               v1.0 Live
             </span>
           </h1>
-          <span className="text-xs text-slate-400 font-medium">PromptWars Challenge 3 Submission</span>
         </div>
       </header>
 
